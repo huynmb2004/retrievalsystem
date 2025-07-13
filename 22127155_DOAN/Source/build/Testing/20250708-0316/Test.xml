@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20250708-0316-Experimental"
+	Name="laptopcuatuui"
+	Generator="ctest-4.0.0-rc2"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.29.30157.0"
+	OSName="Windows"
+	Hostname="laptopcuatuui"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26100)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="4"
+	ModelName="AMD Ryzen 7 7735HS with Radeon Graphics        "
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="34042"
+	TotalPhysicalMemory="15610"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3194"
+	>
+	<Testing>
+		<StartDateTime>Jul 08 10:16 SE Asia Standard Time</StartDateTime>
+		<StartTestTime>1751944603</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 08 10:16 SE Asia Standard Time</EndDateTime>
+		<EndTestTime>1751944603</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

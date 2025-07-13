@@ -1,0 +1,9 @@
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/Experimental.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/Nightly.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/Continuous.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/22127155.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/PACKAGE.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/huyng/OneDrive/Máy tính/School/HK9/CBIR/Project/Project1p/22127155_DOAN/Source/build/CMakeFiles/ZERO_CHECK.dir

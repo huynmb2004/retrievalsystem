@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\ColorCorrelogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\ColorHistogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\CombinedFeature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\DatabaseManger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\EdgeFeatureExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\FeatureExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\LocalFeature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\ORBExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\SIFTExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\TextureFeature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\cpp\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\huyng\OneDrive\Máy tính\School\HK9\CBIR\Project\Project1p\22127155_DOAN\Source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BF9C05F7-4762-3476-88DC-D253EA551053}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
